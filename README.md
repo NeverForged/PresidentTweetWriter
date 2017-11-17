@@ -12,3 +12,7 @@ So, my idea is simple: using n-grams and cosine similarity, I will cook up a twe
 * **Keeping on Topic** - This is where cosine similarity comes in.  It may do a better job than he does.
 * **Time** - It's 11 AM PST on November 17th, 2017 at the time of this inital readme write up.  I plan on finishing quickly.
 * **Evaluation** - How does one measure success at something like this?
+
+## Data
+I used the [**Kaggle** Tweets](https://www.kaggle.com/austinvernsonger/donaldtrumptweets) data.
+* Converted to a txt file with line spererations between tweets. 
