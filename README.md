@@ -15,4 +15,7 @@ So, my idea is simple: using n-grams and cosine similarity, I will cook up a twe
 
 ## Data
 I used the [**Kaggle** Tweets](https://www.kaggle.com/austinvernsonger/donaldtrumptweets) data.
-* Converted to a txt file with line spererations between tweets. 
+* Converted to a txt file with line separations between tweets.
+
+## Finished?
+After 1hr, 45mins, I do have a randomized tweet maker.  It makes very little sense, but then again, neither does the source material.  The Kaggle tweets (and other, larger sets) are very election-focused... which is only mildly outdated.
